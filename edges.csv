@@ -1,0 +1,13 @@
+from,to,weight
+P,M,3
+P,L,3
+P,H,0
+M,L,3
+M,P,3
+M,H,0
+L,P,3
+L,M,3
+L,H,2
+H,L,2
+H,P,0
+H,M,0
